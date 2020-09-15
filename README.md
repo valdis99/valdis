@@ -1,1 +1,1 @@
-# valdis99 https://your-github-account.github.io/rsschool-cv/cv
+# https://valdis99.github.io/rsschool-cv/cv
