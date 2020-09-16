@@ -8,6 +8,6 @@
 
 To start with i want to say that i am 20 years old boy living in Minsk city and studying on the last stage in the BSEU.
 *My priorities* are to develop in any kinds of professions that i interested in and be useful for surrounding people.
-Some words about *my work experience*. I worked in the Prostore hypermarket and this was a good practice of dealing with people.
+Some words about *my work experience*. I worked in the Prostore hypermarket and this was a good practice of _dealing with people_.
 
-Speaking about _my skills in the IT sphere_ i want to say that i'm only gaining some so i'll make a big effort to achieve my goals and become a good specialist
+Speaking about _my skills in the IT sphere_ i want to say that i'm only gaining some so i'll make a big effort to achieve my goals and **become a good specialist**.
